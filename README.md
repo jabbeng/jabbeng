@@ -31,12 +31,14 @@ Based in Switzerland, building within **SwissOneLab / SwissLabs Projects**.
 
 ---
 
-## Public references
+## Professional + Enterprise
 
-| Reference | Scope |
-|---|---|
-| [`jabbeng/jabbeng`](https://github.com/jabbeng/jabbeng) | Professional profile, positioning, and engineering principles |
-| [`jabbeng/joplin`](https://github.com/jabbeng/joplin) | Public open-source contribution footprint (TypeScript ecosystem) |
+| Track | Repository | Scope |
+|---|---|---|
+| **Professional** | [`jabbeng/profil`](https://github.com/jabbeng/profil) | Public professional positioning, capabilities, and consulting focus |
+| **Enterprise** | [`jabbeng/swissonelab`](https://github.com/jabbeng/swissonelab) | Private enterprise profile for SwissOneLab, platform mission, and restricted-access model |
+| **Profile anchor** | [`jabbeng/jabbeng`](https://github.com/jabbeng/jabbeng) | Main public GitHub profile entry point |
+| **Open-source footprint** | [`jabbeng/joplin`](https://github.com/jabbeng/joplin) | Public OSS contribution footprint (TypeScript ecosystem) |
 
 ---
 
