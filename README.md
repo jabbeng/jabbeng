@@ -2,9 +2,15 @@
 
 **Automate Everything. Secure Everything.**
 
-I design and operate production-grade developer and security environments with a focus on **automation**, **platform reliability**, and **security by default**.
+Founder and platform architect behind **SwissOneLab**. I design and operate production-grade environments with a focus on **security by design**, **automation**, and **long-term architectural control**.
 
 Based in Switzerland. Building within **SwissOneLab / SwissLabs Projects**.
+
+## Executive positioning
+
+- Founder-led platform vision with enterprise-grade execution
+- Infrastructure and security architecture for complex environments
+- AI-assisted operations integrated into controlled delivery workflows
 
 ---
 
