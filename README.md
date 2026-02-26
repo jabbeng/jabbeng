@@ -31,20 +31,21 @@ Based in Switzerland, building within **SwissOneLab / SwissLabs Projects**.
 
 ---
 
-## Selected repositories
+## Public references
 
-| Repository | Scope |
+| Reference | Scope |
 |---|---|
-| [`jabbeng/jabbeng`](https://github.com/jabbeng/jabbeng) | Professional profile and engineering positioning |
-| `swissonelab` (private) | Master monorepo orchestrating all workspaces and submodules |
-| `dotfiles` (private) | ZSH/tmux/git/neovim platform configuration and shell profile system |
-| `automation` (private) | System automation, maintenance, reporting, and security operations |
-| `dockerlab` (private) | Docker/Compose stacks, templates, and infrastructure tooling |
-| `homelab` (private) | Server/network operations and infrastructure management |
-| `cyberlab` (private) | Security lab for hardening, investigations, and offensive workflows |
-| `developer` (private) | Developer tooling, templates, scripts, and AI-assisted workflows |
-| `pentestlab` (private) | Pentest-oriented workspace, tools, and methodologies |
-| `macos-setup` (private) | Automated Apple Silicon workstation bootstrap |
+| [`jabbeng/jabbeng`](https://github.com/jabbeng/jabbeng) | Professional profile, positioning, and engineering principles |
+| [`jabbeng/joplin`](https://github.com/jabbeng/joplin) | Public open-source contribution footprint (TypeScript ecosystem) |
+
+---
+
+## Core capabilities delivered
+
+- Build and operate secure-by-default developer and infrastructure platforms.
+- Design automation frameworks for maintenance, monitoring, and incident readiness.
+- Standardize multi-workspace engineering operations with reproducible toolchains.
+- Integrate AI-assisted workflows into day-to-day engineering execution.
 
 ---
 
