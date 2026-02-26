@@ -2,9 +2,9 @@
 
 **Automate Everything. Secure Everything.**
 
-I design and operate production-grade developer and security environments, with a strong focus on **automation**, **platform reliability**, and **security by default**.
+I design and operate production-grade developer and security environments with a focus on **automation**, **platform reliability**, and **security by default**.
 
-Based in Switzerland, building within **SwissOneLab / SwissLabs Projects**.
+Based in Switzerland. Building within **SwissOneLab / SwissLabs Projects**.
 
 ---
 
@@ -13,8 +13,8 @@ Based in Switzerland, building within **SwissOneLab / SwissLabs Projects**.
 | Domain | Expert focus |
 |---|---|
 | **DevOps & Platform Engineering** | CI/CD pipelines, infrastructure as code, operations runbooks, observability |
-| **Cybersecurity Engineering** | hardening, forensics workflows, audit readiness, offensive/defensive lab operations |
-| **AI for Engineering** | practical LLM integration, local AI ops (Ollama), agent-based workflows |
+| **Cybersecurity Engineering** | security hardening, forensics workflows, audit readiness, offensive and defensive lab operations |
+| **AI for Engineering** | practical LLM integration, local AI operations (Ollama), agent-based workflows |
 | **Infrastructure & Systems** | Docker ecosystem, homelab architecture, network services, secure automation |
 | **Developer Experience** | reproducible environments, shell tooling, dotfiles, automation-first workflows |
 
@@ -23,7 +23,7 @@ Based in Switzerland, building within **SwissOneLab / SwissLabs Projects**.
 ## Current architecture (SwissOneLab)
 
 - Unified workspace and profile system across Dev, Security, Infra, Business, and SRE domains.
-- Standardized submodule strategy for multi-repo operations and synchronized release flow.
+- Standardized submodule strategy for multi-repo operations and synchronized delivery flow.
 - Security baseline with:
   - automated dependency vulnerability alerts,
   - automated security fixes,
@@ -33,14 +33,14 @@ Based in Switzerland, building within **SwissOneLab / SwissLabs Projects**.
 
 ## Professional + Enterprise
 
-Founder-led structure with clear separation between public professional profile and private enterprise build.
+Founder-led structure with a clear separation between the public professional profile and the private enterprise build.
 
 | Track | Repository | Scope |
 |---|---|---|
 | **Professional** | [`jabbeng/profil`](https://github.com/jabbeng/profil) | Public-facing profile with capabilities, positioning, and consulting scope |
 | **Enterprise** | [`jabbeng/swissonelab`](https://github.com/jabbeng/swissonelab) | Founder-led SwissOneLab repository in private build phase with restricted access |
-| **Profile anchor** | [`jabbeng/jabbeng`](https://github.com/jabbeng/jabbeng) | Primary public entry point and high-level overview |
-| **Open-source footprint** | [`jabbeng/joplin`](https://github.com/jabbeng/joplin) | Public OSS contribution footprint (TypeScript ecosystem) |
+| **Profile Anchor** | [`jabbeng/jabbeng`](https://github.com/jabbeng/jabbeng) | Primary public entry point and high-level overview |
+| **Open-Source Footprint** | [`jabbeng/joplin`](https://github.com/jabbeng/joplin) | Public OSS contribution footprint (TypeScript ecosystem) |
 
 ---
 
