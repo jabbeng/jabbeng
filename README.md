@@ -25,11 +25,23 @@
 I'm a **DevSecOps architect** obsessed with building reliable, secure, and well-crafted systems.  
 By day I design platform environments — by night I explore cybersecurity, reverse engineering, and AI agents.
 
-- 🏗️ Building **[SwissOneLab](https://swissonelab.com)** — a modular engineering platform
-- 🔐 Passionate about **security-first architecture** and operational resilience
-- 🤖 Experimenting with **local AI agents** and Claude-powered workflows
+- 🏗️ Founder of **[SwissOneLab](https://swissonelab.com)** — a modular engineering platform built for resilience
+- 🔐 Passionate about **security-first architecture**, hardening, and operational governance
+- 🤖 Experimenting with **local AI agents**, Ollama, and Claude-powered engineering workflows
 - 🌐 Based in **Switzerland**, working with teams worldwide
 - ⚡ My terminal setup is probably more complex than it needs to be
+
+---
+
+### 🚀 What I Do
+
+| Domain | Focus |
+|---|---|
+| **Platform Engineering** | Modular multi-environment infrastructure, IaC, controlled delivery |
+| **Security Architecture** | Hardening, threat modeling, secrets management, operational governance |
+| **DevSecOps Automation** | CI/CD pipelines, observability stacks, maintenance automation |
+| **Cybersecurity Operations** | Pentest, OSINT, forensics, reverse engineering, malware analysis |
+| **AI-Assisted Engineering** | Local LLM integration, AI agents, Claude-powered workflows |
 
 ---
 
