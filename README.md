@@ -38,6 +38,7 @@ By day I design platform environments — by night I explore cybersecurity, reve
 | Domain | Focus |
 |---|---|
 | **Platform Engineering** | Modular multi-environment infrastructure, IaC, controlled delivery |
+| **Desktop & TUI Development** | Native macOS apps (Tauri 2 + Svelte 5), Rust TUI with Ratatui |
 | **Security Architecture** | Hardening, threat modeling, secrets management, operational governance |
 | **DevSecOps Automation** | CI/CD pipelines, observability stacks, maintenance automation |
 | **Cybersecurity Operations** | Pentest, OSINT, forensics, reverse engineering, malware analysis |
@@ -78,16 +79,36 @@ By day I design platform environments — by night I explore cybersecurity, reve
 </details>
 
 <details open>
-<summary><b>Languages & AI</b></summary>
+<summary><b>Languages & Frameworks</b></summary>
 <br/>
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Desktop & TUI</b></summary>
+<br/>
+
+![Tauri](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Ratatui](https://img.shields.io/badge/Ratatui-FF6600?style=flat-square&logo=rust&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>AI & LLM</b></summary>
+<br/>
+
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </details>
 
@@ -104,6 +125,21 @@ By day I design platform environments — by night I explore cybersecurity, reve
 ![mise](https://img.shields.io/badge/mise-5A0FC8?style=flat-square&logoColor=white)
 
 </details>
+
+---
+
+### 🔧 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[MacToolbox](https://github.com/jabbeng/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner installer | `Rust` `Ratatui` `Bash` `TOML` |
+| **[TimeConverter](https://github.com/jabbeng/Feuille-Heures-v3-Desktop)** | Time tracking & conversion desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[CtBook](https://github.com/jabbeng/Carnet-Contacts-Desktop)** | Contact manager — native desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[fex-T-Find](https://github.com/jabbeng/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
+| **[ShelliOS](https://github.com/jabbeng/Iphone-terminal-ish-config)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
+| **[Tor Multi-Profiles](https://github.com/jabbeng/tor-proxychains-multiple-profiles)** | Automatic Tor + ProxyChains multi-profile switching | `Shell` |
+| **[Performance Profiles](https://github.com/jabbeng/performance-profile-selector-macos)** | CPU/RAM performance profile manager for macOS Apple Silicon | `Shell` |
+| **[Dotfiles](https://github.com/jabbeng/dotfiles)** | Modular ZSH + window manager + terminal config | `ZSH` `yabai` `skhd` |
 
 ---
 
