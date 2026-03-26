@@ -1,35 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d333b,100:1a1b27&height=120&section=header&text=Hey,%20I'm%20Jabbeng%20👋&fontSize=36&fontColor=ffffff&fontAlignY=65" width="100%" />
+<img src="banner.png" width="100%" alt="SwissOneLab" />
 
-</div>
-
-<div align="center">
+<br/>
 
 ### DevSecOps Architect & Consultant · Founder of SwissOneLab
 
-*I build secure, automated, AI-assisted engineering platforms from Switzerland* 🇨🇭
+*Building secure, automated, AI-assisted engineering platforms from Switzerland* 🇨🇭
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=238636)](https://github.com/jabbeng?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=jabbeng&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/jabbeng)
-[![SwissOneLab](https://img.shields.io/badge/🔬_SwissOneLab-0d1117?style=for-the-badge)](https://swissonelab.com)
+[![SwissOneLab](https://img.shields.io/badge/SwissOneLab-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTUiPvCflKw8L3RleHQ+PC9zdmc+)](https://swissonelab.com)
 
 </div>
 
 ---
 
-### 👋 About me
+### About me
 
-I'm a **DevSecOps architect** obsessed with building reliable, secure, and well-crafted systems.  
+I'm a **DevSecOps architect** focused on building reliable, secure, and well-crafted systems.
 By day I design platform environments — by night I explore cybersecurity, reverse engineering, and AI agents.
 
 - 🏗️ Founder of **[SwissOneLab](https://swissonelab.com)** — a modular engineering platform built for resilience
 - 🔐 Passionate about **security-first architecture**, hardening, and operational governance
 - 🤖 Experimenting with **local AI agents**, Ollama, and Claude-powered engineering workflows
 - 🌐 Based in **Switzerland**, working with teams worldwide
-- ⚡ My terminal setup is probably more complex than it needs to be
 
 ---
 
@@ -113,7 +110,7 @@ By day I design platform environments — by night I explore cybersecurity, reve
 </details>
 
 <details>
-<summary><b>macOS Environment (yes, I care about my terminal 🖥️)</b></summary>
+<summary><b>macOS Environment</b></summary>
 <br/>
 
 ![macOS](https://img.shields.io/badge/macOS_M4_Max-000000?style=flat-square&logo=apple&logoColor=white)
@@ -162,9 +159,9 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 <div align="center">
 
-*"Ship it. Secure it. Automate it."*
+*"Automate Everything. Secure Everything."*
 
-**[swissonelab.com](https://swissonelab.com)** · Switzerland
+**[swissonelab.com](https://swissonelab.com)** · Switzerland 🇨🇭
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d333b,100:1a1b27&height=80&section=footer" width="100%" />
 
