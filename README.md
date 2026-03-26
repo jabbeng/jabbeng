@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="SwissOneLab" />
-
-<br/>
-
 ### DevSecOps Architect & Consultant · Founder of SwissOneLab
 
 *Building secure, automated, AI-assisted engineering platforms from Switzerland* 🇨🇭
+
+<br/>
+
+<img src="banner.png" width="100%" alt="SwissOneLab" />
 
 <br/>
 
@@ -136,7 +136,6 @@ By day I design platform environments — by night I explore cybersecurity, reve
 | **[ShelliOS](https://github.com/jabbeng/Iphone-terminal-ish-config)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
 | **[Tor Multi-Profiles](https://github.com/jabbeng/tor-proxychains-multiple-profiles)** | Automatic Tor + ProxyChains multi-profile switching | `Shell` |
 | **[Performance Profiles](https://github.com/jabbeng/performance-profile-selector-macos)** | CPU/RAM performance profile manager for macOS Apple Silicon | `Shell` |
-| **[Dotfiles](https://github.com/jabbeng/dotfiles)** | Modular ZSH + window manager + terminal config | `ZSH` `yabai` `skhd` |
 
 ---
 
