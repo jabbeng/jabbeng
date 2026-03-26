@@ -158,9 +158,13 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 <div align="center">
 
-*"Automate Everything. Secure Everything."*
+*"Automate Everything. Secure Everything."* 🛡️
 
 **[swissonelab.com](https://swissonelab.com)** · Switzerland 🇨🇭
+
+<br/>
+
+<code>devops • cybersecurity • automation • ai • rust • macos</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d333b,100:1a1b27&height=80&section=footer" width="100%" />
 
