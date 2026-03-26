@@ -35,25 +35,23 @@ By day I design platform environments — by night I explore cybersecurity, reve
 | Domain | Focus |
 |---|---|
 | **Platform Engineering** | Modular multi-environment infrastructure, IaC, controlled delivery |
-| **Desktop & TUI Development** | Native macOS apps (Tauri 2 + Svelte 5), Rust TUI with Ratatui |
-| **Security Architecture** | Hardening, threat modeling, secrets management, operational governance |
-| **DevSecOps Automation** | CI/CD pipelines, observability stacks, maintenance automation |
-| **Cybersecurity Operations** | Pentest, OSINT, forensics, reverse engineering, malware analysis |
-| **AI-Assisted Engineering** | Local LLM integration, AI agents, Claude-powered workflows |
+| **Security Architecture** | Hardening, threat modeling, governance & compliance |
+| **DevSecOps Automation** | CI/CD pipelines, observability, automated maintenance |
+| **Cybersecurity Operations** | Pentest, OSINT, forensics, reverse engineering |
+| **Desktop & TUI Development** | Native macOS apps, Rust terminal interfaces |
+| **AI-Assisted Engineering** | Local LLMs, AI agents, Claude-powered workflows |
 
 ---
 
 ### 🛠️ Tech Stack
 
 <details open>
-<summary><b>DevOps & Platform Engineering</b></summary>
+<summary><b>Platform & DevOps</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
@@ -61,7 +59,16 @@ By day I design platform environments — by night I explore cybersecurity, reve
 </details>
 
 <details open>
-<summary><b>Security & Cyber</b></summary>
+<summary><b>Automation & CI/CD</b></summary>
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Cyber & Security</b></summary>
 <br/>
 
 ![Pentest](https://img.shields.io/badge/Penetration_Testing-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -164,7 +171,7 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 <br/>
 
-<code>devops • cybersecurity • automation • ai • rust • macos</code>
+<code>dev • sec • ops • cyber • security • automation • platform • engineering • ai</code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2d333b,100:1a1b27&height=80&section=footer" width="100%" />
 
