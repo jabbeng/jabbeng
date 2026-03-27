@@ -12,7 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=238636)](https://github.com/jabbeng?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=jabbeng&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/jabbeng)
-[![SwissOneLab](https://img.shields.io/badge/SwissOneLab-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTUiPvCflKw8L3RleHQ+PC9zdmc+)](https://swissonelab.com)
+[![Swiss One Lab](https://img.shields.io/badge/Swiss_One_Lab-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTUiPvCfh6jwn4etPC90ZXh0Pjwvc3ZnPg==&logoColor=white&labelColor=238636)](https://swissonelab.com)
 
 </div>
 
@@ -136,13 +136,16 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 | Project | Description | Stack |
 |---|---|---|
-| **[MacToolbox](https://github.com/jabbeng/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner installer | `Rust` `Ratatui` `Bash` `TOML` |
-| **[TimeConverter](https://github.com/jabbeng/Feuille-Heures-v3-Desktop)** | Time tracking & conversion desktop app | `Tauri 2` `Svelte 5` `SQLite` |
-| **[CtBook](https://github.com/jabbeng/Carnet-Contacts-Desktop)** | Contact manager — native desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[Bnot](https://github.com/jabbeng/bnot)** | "Be your Note" — Offline productivity workspace | `Tauri 2` `Svelte 5` `Rust` `SQLite` |
+| **[SiForge](https://github.com/jabbeng/siforge)** | Prompt-driven project forge — IDE-lite desktop app | `Tauri 2` `Svelte 5` `Rust` `Monaco` |
+| **[Vox-MLX-Whisper](https://github.com/jabbeng/Vox-MLX-Whisper)** | 100% offline voice transcription via Whisper/MLX on Apple Silicon | `Python` `MLX` |
+| **[MacToolbox](https://github.com/jabbeng/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner | `Rust` `Ratatui` `Bash` |
+| **[TimeConverter](https://github.com/jabbeng/TimeConverter)** | Time tracking & conversion desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[CtBook](https://github.com/jabbeng/CtBook)** | Contact manager — native desktop app | `Tauri 2` `Svelte 5` `SQLite` |
 | **[fex-T-Find](https://github.com/jabbeng/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
-| **[ShelliOS](https://github.com/jabbeng/Iphone-terminal-ish-config)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
+| **[ShelliOS](https://github.com/jabbeng/ShelliOS)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
 | **[Tor Multi-Profiles](https://github.com/jabbeng/tor-proxychains-multiple-profiles)** | Automatic Tor + ProxyChains multi-profile switching | `Shell` |
-| **[Performance Profiles](https://github.com/jabbeng/performance-profile-selector-macos)** | CPU/RAM performance profile manager for macOS Apple Silicon | `Shell` |
+| **[Performance Profiles](https://github.com/jabbeng/performance-profile-selector-macos)** | CPU/RAM performance profile manager for macOS | `Shell` |
 
 ---
 
