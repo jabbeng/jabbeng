@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="banner.png" width="100%" alt="SwissOneLab" />
-
-<br/>
-
 ### DevSecOps Architect & Consultant · Founder of SwissOneLab
 
 *Building secure, automated, AI-assisted engineering platforms from Switzerland* 🇨🇭
