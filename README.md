@@ -130,18 +130,20 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 ### 🔧 Featured Projects
 
+> Products built under [**@swissonelab-hq**](https://github.com/swissonelab-hq)
+
 | Project | Description | Stack |
 |---|---|---|
-| **[Bnot](https://github.com/jabbeng/bnot)** | "Be your Note" — Offline productivity workspace | `Tauri 2` `Svelte 5` `Rust` `SQLite` |
-| **[SiForge](https://github.com/jabbeng/siforge)** | Prompt-driven project forge — IDE-lite desktop app | `Tauri 2` `Svelte 5` `Rust` `Monaco` |
-| **[Vox-MLX-Whisper](https://github.com/jabbeng/Vox-MLX-Whisper)** | 100% offline voice transcription via Whisper/MLX on Apple Silicon | `Python` `MLX` |
-| **[MacToolbox](https://github.com/jabbeng/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner | `Rust` `Ratatui` `Bash` |
-| **[TimeConverter](https://github.com/jabbeng/TimeConverter)** | Time tracking & conversion desktop app | `Tauri 2` `Svelte 5` `SQLite` |
-| **[CtBook](https://github.com/jabbeng/CtBook)** | Contact manager — native desktop app | `Tauri 2` `Svelte 5` `SQLite` |
-| **[fex-T-Find](https://github.com/jabbeng/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
-| **[ShelliOS](https://github.com/jabbeng/ShelliOS)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
+| **[Bnot](https://github.com/swissonelab-hq/bnot)** | "Be your Note" — Offline productivity workspace | `Tauri 2` `Svelte 5` `Rust` `SQLite` |
+| **[SiForge](https://github.com/swissonelab-hq/siforge)** | Prompt-driven project forge — IDE-lite desktop app | `Tauri 2` `Svelte 5` `Rust` `Monaco` |
+| **[Xodia](https://github.com/swissonelab-hq/Xodia)** | AI conversation archiving hub — GPT, Ollama, Claude | `Tauri 2` `Svelte 5` `Rust` |
+| **[Vox-MLX-Whisper](https://github.com/swissonelab-hq/Vox-MLX-Whisper)** | 100% offline voice transcription via Whisper/MLX on Apple Silicon | `Python` `MLX` |
+| **[MacToolbox](https://github.com/swissonelab-hq/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner | `Rust` `Ratatui` `Bash` |
+| **[TimeConverter](https://github.com/swissonelab-hq/TimeConverter)** | Time tracking & conversion desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[CtBook](https://github.com/swissonelab-hq/CtBook)** | Contact manager — native desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[fex-T-Find](https://github.com/swissonelab-hq/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
+| **[ShelliOS](https://github.com/swissonelab-hq/ShelliOS)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
 | **[Tor Multi-Profiles](https://github.com/jabbeng/tor-proxychains-multiple-profiles)** | Automatic Tor + ProxyChains multi-profile switching | `Shell` |
-| **[Performance Profiles](https://github.com/jabbeng/performance-profile-selector-macos)** | CPU/RAM performance profile manager for macOS | `Shell` |
 
 ---
 
