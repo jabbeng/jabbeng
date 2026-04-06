@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=238636)](https://github.com/jabbeng?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=jabbeng&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/jabbeng)
-[![Swiss One Lab](https://img.shields.io/badge/Swiss_One_Lab-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTUiPvCfh6jwn4etPC90ZXh0Pjwvc3ZnPg==&logoColor=white&labelColor=238636)](https://swissonelab.com)
+[![Swiss One Lab](https://img.shields.io/badge/Swiss_One_Lab-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTUiPvCfh6jwn4etPC90ZXh0Pjwvc3ZnPg==&logoColor=white&labelColor=b8860b)](https://github.com/swissonelab-hq)
 
 </div>
 
@@ -19,14 +19,14 @@
 I'm a **DevSecOps architect** focused on building reliable, secure, and well-crafted systems.
 By day I design platform environments — by night I explore cybersecurity, reverse engineering, and AI agents.
 
-- 🏗️ Founder of **[SwissOneLab](https://swissonelab.com)** — a modular engineering platform built for resilience
-- 🔐 Passionate about **security-first architecture**, hardening, and operational governance
-- 🤖 Experimenting with **local AI agents**, Ollama, and Claude-powered engineering workflows
-- 🌐 Based in **Switzerland**, working with teams worldwide
+- Founder of **[SwissOneLab](https://github.com/swissonelab-hq)** — a modular engineering platform built for resilience
+- Passionate about **security-first architecture**, hardening, and operational governance
+- Experimenting with **local AI agents**, Ollama, and Claude-powered engineering workflows
+- Based in **Switzerland**, working with teams worldwide
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 | Domain | Focus |
 |---|---|
@@ -39,7 +39,7 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <details open>
 <summary><b>Platform & DevOps</b></summary>
@@ -128,26 +128,26 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 ---
 
-### 🔧 Featured Projects
+### Featured Projects
 
 > Products built under [**@swissonelab-hq**](https://github.com/swissonelab-hq)
 
 | Project | Description | Stack |
 |---|---|---|
+| **[Xodia](https://github.com/swissonelab-hq/Xodia)** | AI conversation archiving hub — GPT, Ollama, Claude | `Tauri 2` `Svelte 5` `Rust` |
 | **[Bnot](https://github.com/swissonelab-hq/bnot)** | "Be your Note" — Offline productivity workspace | `Tauri 2` `Svelte 5` `Rust` `SQLite` |
 | **[SiForge](https://github.com/swissonelab-hq/siforge)** | Prompt-driven project forge — IDE-lite desktop app | `Tauri 2` `Svelte 5` `Rust` `Monaco` |
-| **[Xodia](https://github.com/swissonelab-hq/Xodia)** | AI conversation archiving hub — GPT, Ollama, Claude | `Tauri 2` `Svelte 5` `Rust` |
 | **[Vox-MLX-Whisper](https://github.com/swissonelab-hq/Vox-MLX-Whisper)** | 100% offline voice transcription via Whisper/MLX on Apple Silicon | `Python` `MLX` |
+| **[SOL Entreprise](https://github.com/swissonelab-hq/sol-entreprise)** | Terminal workspaces — 89 profiles, TUI Go + Zsh | `Go` `Zsh` `Bubbletea` |
 | **[MacToolbox](https://github.com/swissonelab-hq/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner | `Rust` `Ratatui` `Bash` |
-| **[TimeConverter](https://github.com/swissonelab-hq/TimeConverter)** | Time tracking & conversion desktop app | `Tauri 2` `Svelte 5` `SQLite` |
-| **[CtBook](https://github.com/swissonelab-hq/CtBook)** | Contact manager — native desktop app | `Tauri 2` `Svelte 5` `SQLite` |
+| **[PerfSwitch](https://github.com/jabbeng/perfswitch)** | Performance profile manager + native menu bar app | `Zsh` `SwiftUI` |
+| **[TimeMachine Bar](https://github.com/jabbeng/macos-perfect-timemachine)** | Time Machine manager + native menu bar app | `Zsh` `SwiftUI` |
 | **[fex-T-Find](https://github.com/swissonelab-hq/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
-| **[ShelliOS](https://github.com/swissonelab-hq/ShelliOS)** | Modular ZSH config for iPhone (iSH) — 3 profiles | `ZSH` |
 | **[Tor Multi-Profiles](https://github.com/jabbeng/tor-proxychains-multiple-profiles)** | Automatic Tor + ProxyChains multi-profile switching | `Shell` |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
