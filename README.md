@@ -169,7 +169,7 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 <div align="center">
 
-*"Automate Everything. Secure Everything."* 🛡️
+*"Automate Everything & Secure Everywhere"*
 
 **[swissonelab.com](https://swissonelab.com)** · Switzerland 🇨🇭
 
