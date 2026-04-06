@@ -6,9 +6,10 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=238636)](https://github.com/jabbeng?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117)](https://github.com/jabbeng?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=jabbeng&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/jabbeng)
-[![Swiss One Lab](https://img.shields.io/badge/Swiss_One_Lab-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTUiPvCfh6jwn4etPC90ZXh0Pjwvc3ZnPg==&logoColor=white&labelColor=b8860b)](https://github.com/swissonelab-hq)
+
+<a href="https://github.com/swissonelab-hq"><img src="assets/swissonelab-logo.png" alt="SwissOneLab" height="40"></a>
 
 </div>
 
