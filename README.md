@@ -1,15 +1,17 @@
 <div align="center">
 
-### DevSecOps Architect & Consultant · Founder of SwissOneLab
-
-*Building secure, automated, AI-assisted engineering platforms from Switzerland* 🇨🇭
+<a href="https://github.com/swissonelab-hq"><img src="assets/swissonelab-banner-dark.png" alt="SwissOneLab" width="450"></a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=0d1117)](https://github.com/jabbeng?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=jabbeng&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)](https://github.com/jabbeng)
+### DevSecOps Architect & Consultant
 
-<a href="https://github.com/swissonelab-hq"><img src="assets/swissonelab-logo.png" alt="SwissOneLab" height="40"></a>
+*Building secure, automated, AI-assisted engineering platforms from Switzerland*
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/jabbeng?style=flat-square&color=0d1117&labelColor=0d1117)](https://github.com/jabbeng?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=jabbeng&style=flat-square&color=0d1117&label=VIEWS)](https://github.com/jabbeng)
 
 </div>
 
