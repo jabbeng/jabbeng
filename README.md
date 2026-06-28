@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/swissonelab-hq"><img src="assets/swissonelab-banner-dark.png" alt="SwissOneLab" width="450"></a>
+<a href="https://github.com/swissonelab"><img src="assets/swissonelab-banner-dark.png" alt="SwissOneLab" width="450"></a>
 
 <br/>
 
@@ -22,7 +22,7 @@
 I'm a **DevSecOps architect** focused on building reliable, secure, and well-crafted systems.
 By day I design platform environments — by night I explore cybersecurity, reverse engineering, and AI agents.
 
-- Founder of **[SwissOneLab](https://github.com/swissonelab-hq)** — a modular engineering platform built for resilience
+- Founder of **[SwissOneLab](https://github.com/swissonelab)** — a modular engineering platform built for resilience
 - Passionate about **security-first architecture**, hardening, and operational governance
 - Experimenting with **local AI agents**, Ollama, and Claude-powered engineering workflows
 - Based in **Switzerland**, working with teams worldwide
@@ -133,19 +133,19 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 ### Featured Projects
 
-> Products built under [**@swissonelab-hq**](https://github.com/swissonelab-hq)
+> Products built under [**@swissonelab**](https://github.com/swissonelab)
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Xodia](https://github.com/swissonelab-hq/Xodia)** | AI conversation archiving hub — GPT, Ollama, Claude | `Tauri 2` `Svelte 5` `Rust` |
-| **[Bnot](https://github.com/swissonelab-hq/bnot)** | "Be your Note" — Offline productivity workspace | `Tauri 2` `Svelte 5` `Rust` `SQLite` |
-| **[SiForge](https://github.com/swissonelab-hq/siforge)** | Prompt-driven project forge — IDE-lite desktop app | `Tauri 2` `Svelte 5` `Rust` `Monaco` |
-| **[Vox-MLX-Whisper](https://github.com/swissonelab-hq/Vox-MLX-Whisper)** | 100% offline voice transcription via Whisper/MLX on Apple Silicon | `Python` `MLX` |
-| **[SOL Entreprise](https://github.com/swissonelab-hq/sol-entreprise)** | Terminal workspaces — 89 profiles, TUI Go + Zsh | `Go` `Zsh` `Bubbletea` |
-| **[MacToolbox](https://github.com/swissonelab-hq/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner | `Rust` `Ratatui` `Bash` |
+| **[Xodia](https://github.com/swissonelab/Xodia)** | AI conversation archiving hub — GPT, Ollama, Claude | `Tauri 2` `Svelte 5` `Rust` |
+| **[Bnot](https://github.com/swissonelab/bnot)** | "Be your Note" — Offline productivity workspace | `Tauri 2` `Svelte 5` `Rust` `SQLite` |
+| **[SiForge](https://github.com/swissonelab/siforge)** | Prompt-driven project forge — IDE-lite desktop app | `Tauri 2` `Svelte 5` `Rust` `Monaco` |
+| **[Vox-MLX-Whisper](https://github.com/swissonelab/Vox-MLX-Whisper)** | 100% offline voice transcription via Whisper/MLX on Apple Silicon | `Python` `MLX` |
+| **[SOL Entreprise](https://github.com/swissonelab/sol-entreprise)** | Terminal workspaces — 89 profiles, TUI Go + Zsh | `Go` `Zsh` `Bubbletea` |
+| **[MacToolbox](https://github.com/swissonelab/mactoolbox)** | Open-source macOS toolbox — 12 declarative profiles, TUI + one-liner | `Rust` `Ratatui` `Bash` |
 | **[PerfSwitch](https://github.com/jabbeng/perfswitch)** | Performance profile manager + native menu bar app | `Zsh` `SwiftUI` |
 | **[TimeMachine Bar](https://github.com/jabbeng/macos-perfect-timemachine)** | Time Machine manager + native menu bar app | `Zsh` `SwiftUI` |
-| **[fex-T-Find](https://github.com/swissonelab-hq/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
+| **[fex-T-Find](https://github.com/swissonelab/fex-T-Find)** | Dual-pane TUI file explorer | `Rust` `Ratatui` |
 | **[Tor Multi-Profiles](https://github.com/jabbeng/tor-proxychains-multiple-profiles)** | Automatic Tor + ProxyChains multi-profile switching | `Shell` |
 
 ---
