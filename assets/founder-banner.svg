@@ -18,10 +18,10 @@
   <rect x="600" y="0" width="600" height="4" fill="#E63946"/>
 
   <!-- Name -->
-  <text x="600" y="138" font-size="72" font-weight="800" fill="#EDEDEF" text-anchor="middle" letter-spacing="-1">Julien Engelhard</text>
+  <text x="600" y="138" font-size="72" font-weight="800" fill="#EDEDEF" text-anchor="middle" letter-spacing="-1" xml:space="preserve">Julien <tspan fill="#d69e2e">E</tspan>ngelhard</text>
 
   <!-- Title -->
-  <text x="600" y="184" font-size="28" font-weight="600" fill="#C8CDD6" text-anchor="middle" xml:space="preserve"><tspan fill="#3A7FFF">Systems</tspan> &amp; Ecosystem Architect</text>
+  <text x="600" y="184" font-size="28" font-weight="600" fill="#C8CDD6" text-anchor="middle" xml:space="preserve"><tspan fill="#3A7FFF">Systems</tspan> &amp; <tspan fill="#d69e2e">E</tspan>cosystem Architect</text>
 
   <!-- Positioning line -->
   <text x="600" y="230" font-size="14" font-weight="600" fill="#5C5C5F" text-anchor="middle" letter-spacing="3">FOUNDER OF SWISSONELAB   ·   SOVEREIGN SOFTWARE &amp; HARDWARE</text>
