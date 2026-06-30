@@ -19,12 +19,15 @@
 
 ### About me
 
-I'm a **DevSecOps architect** focused on building reliable, secure, and well-crafted systems.
-By day I design platform environments — by night I explore cybersecurity, reverse engineering, and AI agents.
+I'm a **DevSecOps architect** focused on building reliable, secure, and well-crafted systems —
+with a strong bias for **sovereignty and local-first design**.
+By day I design platform environments; by night I explore cybersecurity, reverse engineering, and AI agents.
 
-- Founder of **[SwissOneLab](https://github.com/swissonelab)** — a modular engineering platform built for resilience
-- Passionate about **security-first architecture**, hardening, and operational governance
-- Experimenting with **local AI agents**, Ollama, and Claude-powered engineering workflows
+- Founder of **[SwissOneLab](https://github.com/swissonelab)** — a modular, security-first engineering platform built for resilience and digital sovereignty
+- Passionate about **security-first architecture**, system hardening, and operational governance
+- Building **local-first, sovereign tooling** — offline-capable apps that keep data under the user's control
+- Orchestrating **local AI agents** on Apple Silicon (Ollama, MLX) alongside Claude-powered engineering workflows
+- Crafting **native macOS apps** (SwiftUI) and **Rust TUIs** with a focus on polish and offline reliability
 - Based in **Switzerland**, working with teams worldwide
 
 ---
@@ -37,8 +40,9 @@ By day I design platform environments — by night I explore cybersecurity, reve
 | **Security Architecture** | Hardening, threat modeling, governance & compliance |
 | **DevSecOps Automation** | CI/CD pipelines, observability, automated maintenance |
 | **Cybersecurity Operations** | Pentest, OSINT, forensics, reverse engineering |
-| **Desktop & TUI Development** | Native macOS apps, Rust terminal interfaces |
-| **AI-Assisted Engineering** | Local LLMs, AI agents, Claude-powered workflows |
+| **Sovereign & Local-First Tooling** | Offline-capable, privacy-first apps; data ownership by design |
+| **Native macOS & TUI Development** | SwiftUI desktop & menu-bar apps, Rust/Ratatui terminal interfaces |
+| **AI Agents & Local LLMs** | On-device LLM orchestration (Ollama, MLX), agentic workflows, Claude-powered engineering |
 
 ---
 
@@ -100,6 +104,7 @@ By day I design platform environments — by night I explore cybersecurity, reve
 <summary><b>Desktop & TUI</b></summary>
 <br/>
 
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Ratatui](https://img.shields.io/badge/Ratatui-FF6600?style=flat-square&logo=rust&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -112,6 +117,9 @@ By day I design platform environments — by night I explore cybersecurity, reve
 
 ![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![MLX](https://img.shields.io/badge/Apple_MLX-000000?style=flat-square&logo=apple&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![Local Agents](https://img.shields.io/badge/Local_AI_Agents-4B0082?style=flat-square&logoColor=white)
 
 </details>
 
