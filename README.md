@@ -1,12 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/swissonelab"><img src="assets/swissonelab-banner-dark.png" alt="SwissOneLab" width="450"></a>
+<img src="assets/founder-banner-dark.png" alt="Julien Engelhard — DevSecOps Architect & Consultant · Founder of SwissOneLab" width="100%">
 
 <br/>
 
-### DevSecOps Architect & Consultant
-
-*Building secure, automated, AI-assisted engineering platforms from Switzerland*
+*Building secure, automated, AI-assisted engineering platforms from Switzerland — founder of [**SwissOneLab**](https://github.com/swissonelab).*
 
 <br/>
 
