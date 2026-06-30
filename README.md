@@ -17,9 +17,10 @@
 
 ### About me
 
-I'm a **DevSecOps architect** focused on building reliable, secure, and well-crafted systems —
-with a strong bias for **sovereignty and local-first design**.
-By day I design platform environments; by night I explore cybersecurity, reverse engineering, and AI agents.
+I'm a **systems & ecosystem architect** (DevSecOps background) who designs coherent, sovereign
+ecosystems — **from hardware to software, from product to brand** — with a strong bias for
+**security-first, local-first design**.
+By day I architect platform environments; by night I explore cybersecurity, reverse engineering, and AI agents.
 
 - Founder of **[SwissOneLab](https://github.com/swissonelab)** — a modular, security-first engineering platform built for resilience and digital sovereignty
 - Passionate about **security-first architecture**, system hardening, and operational governance

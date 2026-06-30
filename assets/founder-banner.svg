@@ -21,10 +21,10 @@
   <text x="600" y="138" font-size="72" font-weight="800" fill="#EDEDEF" text-anchor="middle" letter-spacing="-1">Julien Engelhard</text>
 
   <!-- Title -->
-  <text x="600" y="184" font-size="28" font-weight="600" fill="#C8CDD6" text-anchor="middle" xml:space="preserve"><tspan fill="#3A7FFF">DevSecOps</tspan> Architect &amp; Consultant</text>
+  <text x="600" y="184" font-size="28" font-weight="600" fill="#C8CDD6" text-anchor="middle" xml:space="preserve"><tspan fill="#3A7FFF">Systems</tspan> &amp; Ecosystem Architect</text>
 
   <!-- Positioning line -->
-  <text x="600" y="230" font-size="15" font-weight="600" fill="#5C5C5F" text-anchor="middle" letter-spacing="3.5">FOUNDER OF SWISSONELAB   ·   GENEVA, SWITZERLAND</text>
+  <text x="600" y="230" font-size="14" font-weight="600" fill="#5C5C5F" text-anchor="middle" letter-spacing="3">FOUNDER OF SWISSONELAB   ·   SOVEREIGN SOFTWARE &amp; HARDWARE</text>
 
   <rect x="0" y="297" width="1200" height="3" fill="#131A2B"/>
 </svg>
